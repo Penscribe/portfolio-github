@@ -1,6 +1,7 @@
 # Portfolio - Moussa BAMBA
 # 🎓 Portfolio – Moussa BAMBA
 
+
 Bienvenue sur mon espace GitHub personnel.  
 Je suis **Instituteur**, **chef de projet**, **formateur** et **développeur citoyen** basé en Côte d'Ivoire.
 
@@ -43,6 +44,8 @@ Ce portfolio contiendra prochainement :
 - 🤝 Odoo : utilisateur avancé / testeur
 
 ---
+## Certifications
+![GitHub Portfolio Badge](https://img.shields.io/badge/Portfolio%20GitHub-R%C3%A9ussi-brightgreen?logo=github&style=for-the-badge)
 
 ## 📫 Contact
 
